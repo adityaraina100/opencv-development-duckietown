@@ -1,5 +1,5 @@
 
-# OPENCV DEVELOPMENT- DUCKIETOWN DUCKIEBOT
+# OPENCV DEVELOPMENT- DUCKIETOWN DUCKIEBOT (under development)
 
 A properly organized library of the DuckieTown Duckiebot Eco-system which comprises of all the python scripts and packages employeed in the opencv development of the bot.
 
